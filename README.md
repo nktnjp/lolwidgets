@@ -7,12 +7,9 @@ LOLWidgetsはLeague of Legends(LOL)のゲーム情報をウィジェットに表
 ただし、言語は日本語のみです。<br/>
 
 ## 無料チャンピオン一覧 機能紹介
- <img src="images/freetoplay01.png" align="left"/>
- <img src="images/freetoplay02.png" align="left"/>
- <img src="images/freetoplay03.png" align="left"/>
-<br clear="both">
-メインのアプリ内と、iOSのTodayの領域に、現在遊べる無料チャンピオンの一覧を表示します。
-また、チャンピオンをタップすることでチャンピオンの詳細サイトをアプリ内のWebViewで表示することができます。
+<img src="images/freetoplay1.jpg" height="200"/><br/>
+アプリ内と、iOSのTodayの領域に、現在遊べる無料チャンピオンの一覧を表示します。
+チャンピオンをタップすることでチャンピオンの詳細サイトをアプリ内のWebViewで表示することができます。
 
 ## 機能2
 ## 機能3
